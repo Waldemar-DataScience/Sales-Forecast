@@ -1,4 +1,4 @@
-# Portfolio Project 3 – Regression – Time Series Prediction
+# Portfolio Project 1 – Regression – Time Series Prediction
 
 ## Sales Prediction
 
